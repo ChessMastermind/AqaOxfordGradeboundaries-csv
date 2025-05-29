@@ -39,7 +39,7 @@ AQA Oxford publishes its grade boundaries in separate PDF files for each exam se
 
 ## 📎 Access the CSV
 
-[Download the AQA Oxford grade boundaries CSV](https://github.com/ChessMastermind/AqaOxfordGradeboundaries-csv/edit/main/grade_boundaries.csv)
+[Download the AQA Oxford grade boundaries CSV](https://github.com/ChessMastermind/AqaOxfordGradeboundaries-csv/blob/main/grade_boundaries.csv)
 
 ---
 
