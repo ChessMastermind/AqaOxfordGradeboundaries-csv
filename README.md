@@ -1,4 +1,4 @@
-# 📊 AQA Oxford Grade Boundaries Dataset (Jan 2018–Jan 2025)
+# 📊 AQA Oxford Grade Boundaries Dataset (2018–2025)
 
 **A complete, unified CSV containing all grade boundaries for AQA Oxford AS/A-Level exams from January 2018 through January 2025.**  
 Perfect for students, educators, and researchers who want to explore historical cutoffs without wrestling with dozens of PDFs.
@@ -48,4 +48,4 @@ aqa • oxford • grade-boundaries • gcse • a-level • science • maths �
 ---
 
 If you have questions or suggestions, drop me a note on Reddit:  
-[https://www.reddit.com/user/Normal_cat12345](https://www.reddit.com/user/Normal_cat12345)  
+[Reddit link](https://www.reddit.com/user/Normal_cat12345)  
